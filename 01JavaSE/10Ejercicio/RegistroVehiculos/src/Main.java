@@ -22,7 +22,7 @@ public class Main {
             Scanner in = new Scanner(System.in);
             opcion = in.nextInt();
             switch (opcion) {
-                //Registrar
+                //Registra
                 case 1:
                     registrar(lista);
                     break;
